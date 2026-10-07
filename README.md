@@ -1,4 +1,4 @@
-# Purpose of this 
+# Why I have created this repo ?
 
 Hi all, 
 I have created to repo to showcase my SQL skills by completing the 8 weeks SQL challenge with DuckDB. You may see the SQL queries in the respective case study folders.
