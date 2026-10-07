@@ -1,4 +1,11 @@
-# SQL challenge workspace
+# Purpose of this 
+
+Hi all, 
+I have created to repo to showcase my SQL skills by completing the 8 weeks SQL challenge with DuckDB. You may see the SQL queries in the respective case study folders.
+
+Creator of this challenge : https://8weeksqlchallenge.com/
+
+# SQL challenge set up instructions
 
 Open `8 weeks SQL challenge` as the VS Code workspace folder. All case folders
 share the `.venv` in this root; do not create a virtual environment inside each
